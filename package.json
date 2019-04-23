@@ -1,0 +1,14 @@
+{
+  "name": "anygo-static-web-server",
+  "version": "1.0.0",
+  "description": "Anygo Static Web Server",
+  "scripts": {
+    "start": "node web-server/app.js"
+  },
+  "author": "MultiShiv19",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.15.3",
+    "nodemailer": "^4.2.0"
+  }
+}
